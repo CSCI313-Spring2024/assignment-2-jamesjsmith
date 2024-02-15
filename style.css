@@ -1,0 +1,98 @@
+.btn {
+    font-family: Arial, Helvetica, sans-serif;
+    text-transform: uppercase;
+    
+}
+.flex-button{
+    justify-content: center;
+}
+
+
+.btn-shadow-drop {
+   
+    margin-top: 5%;
+    background: rgb(249, 250, 250);
+    padding: 20px;
+    font-size: 0.9em;
+    font-weight: 700;
+    letter-spacing: 5px;
+    text-transform: uppercase;
+    transition: initial 0.3s ease-in-out 0s;
+    left: 0px;
+    top: 0px;
+    width: 180px;
+    margin-left: 53em;
+
+}
+
+.btn-shadow-drop:hover {
+    left: 4px;
+    top: 4px;
+    box-shadow: rgb(255, 255, 255) 0px 0px 0px 0px;
+}
+
+.btn-shadow-drop--black {
+    border: 1px solid rgb(51, 51, 51);
+    color: rgb(51, 51, 51);
+    box-shadow: rgb(51, 51, 51) 4px 4px 0px 0px;
+}
+
+#aboutMe {
+    text-align: center;
+    font-family:Arial, Helvetica, sans-serif;
+    font-weight: bold;
+
+    
+}
+
+.pic {
+    padding-top: 2%;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 30%;
+    border-radius: 15%;
+}
+
+p {
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+#aboutMePara {
+    padding: 2em;
+    display: block;
+    margin-top: 3em;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+    text-align: center;
+    border-style:solid;
+}
+
+#intro {
+    padding: 3em;
+    text-align: center;
+    font-family:Arial, Helvetica, sans-serif;
+}
+
+.sites {
+    background-color: rgb(255, 244, 237);
+    
+}
+
+.flex-container {
+    display: flex;
+    justify-content: center;
+    justify-content: space-around;
+    padding-top: 20em;
+}
+
+.aboutPage {
+    background-color: rgba(255, 241, 228, 0.89);
+}
+
+.flex-button{
+    display: flex;
+    justify-content:space-around;
+}
+
